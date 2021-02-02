@@ -1,8 +1,3 @@
-'''
-Created on 2020 Nov 30
-
-@author: scoba
-'''
 
 import discord, random, json, os, time
 from discord.ext import commands
@@ -14,7 +9,7 @@ BLUE = 0x3498db
 PURPLE = 0x9b59b6
 GOLD = 0xf1c40f
 
-os.chdir("C:\\Users\\scoba\\Desktop\\PERSONAL PROJECTS\\wishBot\\src")
+os.chdir()
 
 client = commands.Bot(command_prefix = "wish.")
 
