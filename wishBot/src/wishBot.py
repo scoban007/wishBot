@@ -551,4 +551,4 @@ async def collection(ctx):
 
     await ctx.send(embed = emb)
 
-client.run("NzgzMTQxNjY0ODczMTE5NzY0.X8Wbgg.iME-5OO67o54xblzeAlkwM6q_74")
+client.run()
